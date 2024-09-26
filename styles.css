@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(to bottom, #000000, #4b0082);
+    background: linear-gradient(to right, #ef4444, #111827, #1e3a8a);
     color: white;
     display: flex;
     flex-direction: column;
